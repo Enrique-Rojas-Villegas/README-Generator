@@ -15,9 +15,10 @@
   Learned about fs, inquire and how we could prompt for the user input, and to use that input dynamically to create any type of document.
   <br>
 - Briefly describe your Project: <br>
-  The README Generator, prompts the user a series of questions, and when answered takes those inputs and dynamically saves them and adds them to a README Template, the user can add images, email domains by copying the snnipets provided in the console to be faster at writing.
-
+  The README Generator, prompts the user a series of questions, and when answered takes those inputs and dynamically saves them and adds them to a README Template, the user can add images, email domains by copying the snnipets provided in the console to be faster at writing.<br>
+  <br>
   ![Console look](./Assets/Files/images/console-prompt.PNG)
+  ![Console look](./Assets/Files/images/console-prompt-2.PNG)
 
 ## Table of Contents
 
