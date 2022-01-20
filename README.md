@@ -1,17 +1,25 @@
-# <Your-Project-Title>
+# README Generator
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+- What was your motivation? <br>
+  This was an idea I had to focus more on coding, and test the abilities I have gained over the last 3 months.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- Why did you build this project? <br>
+  It started as an idea for a simple generator, but soon turned into a real challenge, and to add more and more functionality to the project.
+
+- What problem does it solve? <br>
+  Saves time when writing a Quality ReadMe, and for the coder to focus more time onto coding, while presenting a quality description of their project.
+
+- What did you learn? <br>
+  Learned about fs, inquire and how we could prompt for the user input, and to use that input dynamically to create any type of document.
+  <br>
+- Briefly describe your Project: <br>
+  The README Generator, prompts the user a series of questions, and when answered takes those inputs and dynamically saves them and adds them to a README Template, the user can add images, email domains by copying the snnipets provided in the console to be faster at writing.
+
+  ![Console look](./Assets/Files/images/console-prompt.PNG)
 
 ## Table of Contents
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Description](#description)
 - [Installation](#installation)
@@ -23,37 +31,31 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+1. Git clone this repository
+2. Make sure you have Node.js installed
+3. npm init -y
+4. npm install inquirer
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-`md ![alt text](assets/images/screenshot.png) `
+Provide instructions for use:
 
-## License
+After the installation of dependencies and cloning is done, type into your console:
 
-## The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+1. Run using "node index.js"
 
 ## Features
 
-If your project has a lot of features, list them here.
-
-## Contributing
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Future Features:
+-Prompt for a more aesthetic look in the console
+-Welcome Message and Thank Your message.
+-Pull picture of user from github
+-Using Fetch to get other relevant information which will make the README more appealing.
 
 ## Questions
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Check out my work:<br>
+
+Find me on GitHub:<br>
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) (https://github.com/Enrique-Rojas-Villegas) <br>
+Email me: 📧 rojiyoyo@gmail.com

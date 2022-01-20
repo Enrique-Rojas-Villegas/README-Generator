@@ -10,12 +10,16 @@ const contentsOfReadMe = ({Title, Motivation, Build, Solve, Learn, Description, 
 
 - What was your motivation? <br>
     ${Motivation}
+
 - Why did you build this project? <br>
     ${Build}
+
 - What problem does it solve? <br>
     ${Solve}
+
 - What did you learn? <br>
     ${Learn}
+    <br>
 - Briefly describe your Project: <br>
     ${Description}
     <br>
