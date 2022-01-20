@@ -59,3 +59,5 @@ Find me on GitHub:<br>
 Email me: 📧 rojiyoyo@gmail.com <br>
 Repository: https://github.com/Enrique-Rojas-Villegas/README-Generator.git <br>
 Video-Demo: https://watch.screencastify.com/v/PI2MKJ7bzDw7sUr9lydz
+
+<--Sample README is found inside Assets/Files and named README as well, this matches the answers written in the Video Demo. -->
